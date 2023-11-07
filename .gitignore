@@ -1,0 +1,25 @@
+# Carpeta generada por TypeScript
+/dist/
+
+# Carpeta generada por Node.js
+/node_modules/
+
+# Archivos generados por herramientas de desarrollo
+.DS_Store
+.vscode/
+*.sublime-workspace
+*.sublime-project
+*.log
+
+# Archivo .env (contiene variables de entorno, no debe rastrearse en Git)
+.env
+
+# Archivo de bloqueo (normalmente no debe rastrearse)
+package-lock.json
+yarn.lock
+
+# Historial de comandos en la terminal
+.history/
+
+# Archivos de configuración locales
+config/*.json
